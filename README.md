@@ -5,4 +5,4 @@ cd Tools-Darkfb
 sh tdf.sh
 ```
 
-> username,pass? [clickhere](https://sfile.mobi/1if2En1fAUN/)
+> username,pass? [clickhere](https://sfile.mobi/1if2En1fAUN)
