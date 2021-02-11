@@ -2,9 +2,13 @@
 ```
 git clone https://github.com/Xclowns9/Tools-Darkfb
 cd Tools-Darkfb
-sh tdf.sh
+sh dark.sh
 ```
 
-> ***Get Username,Password?[clickhere](https://sfile.mobi/1if2En1fAUN)***
+# Screenshot
+<br>
+<p align="center">
+<img width="100%" src="https://c.top4top.io/p_1868eftly1.jpg"/>
+</p>
 
-***Enjoyy!!***
+> ***Get Username,Password?[clickhere](https://sfile.mobi/1if2En1fAUN)***
